@@ -1,0 +1,86 @@
+table {
+	border-collapse: collapse;
+	width: 50%;
+}
+
+td, th {
+	border: 1px solid;
+	text-align: middle;
+	padding: 14px;
+	border-color: white
+}
+
+
+th {
+	color: #4da6ff;
+	font-size: 18px;
+}
+
+grouphead {
+	font-family: Arial;
+	font-size: 34px;
+} 
+
+fk {
+	color:  #ff0066;
+}
+
+body {
+	background-image: url("http://bit.ly/2hEbpFl")
+	
+
+}
+
+
+
+exp {
+	font-size: 24px;
+}
+
+name {
+	font-style: italic;
+	font-family: monospace;
+	color: orange;
+}
+
+html {
+	padding: 12px;
+}
+
+li {
+	color: F5FFFA;
+	font-size: 22px;
+	margin: 10px 0;
+}
+
+h3 {
+	color:  #ffe6ff;
+	font-size: 26px;
+	text-decoration: underline;
+}
+
+h2 {
+	color: #4da6ff;
+}
+
+p {
+	color: yellow;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+exp {
+	color: black;
+}
+
+GIMP1 {
+	height: 300px;
+	width: 240px;
+}
+
+
+
+
+
+
+
